@@ -3,8 +3,6 @@ import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 import {
   Chip,
   Divider,
-  List,
-  ListItem,
   Paper,
   SvgIcon,
   Tooltip,
@@ -14,7 +12,6 @@ import {
   ButtonBack,
   ButtonNext,
   CarouselProvider,
-  Image,
   ImageWithZoom,
   Slide,
   Slider,

@@ -1,5 +1,4 @@
 import GridContainer from 'components/core/layouts/Grid/GridContainer';
-import GridItem from 'components/core/layouts/Grid/GridItem';
 
 import Card from 'components/shared/card';
 
