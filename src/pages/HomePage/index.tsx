@@ -6,7 +6,12 @@ import Works from './components/Works';
 
 const HomePage = () => {
   return (
-    <GridContainer width={'100%'} direction={'column'} height={'100%'}>
+    <GridContainer
+      width={'100%'}
+      direction={'column'}
+      height={'100%'}
+      alignItems={'center'}
+    >
       <About />
       <Works />
       <Contacts />
